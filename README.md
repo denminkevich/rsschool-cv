@@ -1,2 +1,2 @@
 # rsschool-cv
-RS School
+RSS School
