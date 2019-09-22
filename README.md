@@ -2,4 +2,4 @@
 
 [Сcылка на резюме](https://denminkevich.github.io/cd/cd)
 
-[rsschool-cv-html](https://denminkevich.github.io/cd/cdInColor)
+[rsschool-cv-html](denminkevich.github.io/cdInColor/)
