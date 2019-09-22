@@ -1,2 +1,2 @@
-# rsschool-cv
+# rschool-cv
 RSS School
